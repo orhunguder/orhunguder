@@ -1,1 +1,1 @@
-- Hi, I’m Orhun Güder, a 4th year at Bilkent University studying computer science.
+- Hi, I’m Orhun Güder, a senior at Bilkent University studying computer science.
