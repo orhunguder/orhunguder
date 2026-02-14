@@ -1,1 +1,1 @@
-- Hi, I’m Orhun Güder, a senior at Bilkent University studying computer science.
+- Hi, I’m Orhun Güder, a senior at Bilkent University studying computer science. Interested specifically in cryptography and zero knowledge proofs.
